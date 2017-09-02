@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                             RC_SIGN_IN);
                // }
 
-
 //                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
 //                        .setAction("Action", null).show();
             }
